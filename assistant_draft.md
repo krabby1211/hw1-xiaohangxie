@@ -1,3 +1,14 @@
+# Assistant Draft
+
+This file will contain the draft created with my coding assistant.
+
+1 file changed
++35
+-0
+
+
+
+assistant_draft.md
 # AI and Healthcare Workflows
 
 I am a business student with interests in finance, operations, and healthcare workflows. I am especially curious about how technology can make systems run more smoothly and help people make better decisions in fast-paced environments.
